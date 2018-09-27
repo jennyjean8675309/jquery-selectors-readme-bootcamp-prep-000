@@ -1,4 +1,5 @@
 // declare your functions here...
 function paragraphSelector() {
-  $('p')
+  p_elements = $('p')
+  p_elements
 }
